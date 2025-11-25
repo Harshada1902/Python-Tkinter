@@ -1,0 +1,2 @@
+We are looking for a Data Analyst with strong knowledge of Python, Pandas, SQL, and Machine Learning.
+Experience with data visualization tools like Matplotlib and Seaborn is preferred.
